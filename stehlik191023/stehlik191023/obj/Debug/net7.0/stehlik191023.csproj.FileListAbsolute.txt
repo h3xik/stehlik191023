@@ -1,0 +1,14 @@
+/Users/hexik/Documents/P2B/prg7/stehlik191023/stehlik191023/bin/Debug/net7.0/stehlik191023
+/Users/hexik/Documents/P2B/prg7/stehlik191023/stehlik191023/bin/Debug/net7.0/stehlik191023.deps.json
+/Users/hexik/Documents/P2B/prg7/stehlik191023/stehlik191023/bin/Debug/net7.0/stehlik191023.runtimeconfig.json
+/Users/hexik/Documents/P2B/prg7/stehlik191023/stehlik191023/bin/Debug/net7.0/stehlik191023.dll
+/Users/hexik/Documents/P2B/prg7/stehlik191023/stehlik191023/bin/Debug/net7.0/stehlik191023.pdb
+/Users/hexik/Documents/P2B/prg7/stehlik191023/stehlik191023/obj/Debug/net7.0/stehlik191023.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hexik/Documents/P2B/prg7/stehlik191023/stehlik191023/obj/Debug/net7.0/stehlik191023.AssemblyInfoInputs.cache
+/Users/hexik/Documents/P2B/prg7/stehlik191023/stehlik191023/obj/Debug/net7.0/stehlik191023.AssemblyInfo.cs
+/Users/hexik/Documents/P2B/prg7/stehlik191023/stehlik191023/obj/Debug/net7.0/stehlik191023.csproj.CoreCompileInputs.cache
+/Users/hexik/Documents/P2B/prg7/stehlik191023/stehlik191023/obj/Debug/net7.0/stehlik191023.dll
+/Users/hexik/Documents/P2B/prg7/stehlik191023/stehlik191023/obj/Debug/net7.0/refint/stehlik191023.dll
+/Users/hexik/Documents/P2B/prg7/stehlik191023/stehlik191023/obj/Debug/net7.0/stehlik191023.pdb
+/Users/hexik/Documents/P2B/prg7/stehlik191023/stehlik191023/obj/Debug/net7.0/stehlik191023.genruntimeconfig.cache
+/Users/hexik/Documents/P2B/prg7/stehlik191023/stehlik191023/obj/Debug/net7.0/ref/stehlik191023.dll
