@@ -1,24 +1,22 @@
 ﻿<Properties StartupConfiguration="{1D5D5AB8-35FA-4AC8-A712-0C4C3448F9E6}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.stehlik191023 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="stehlik191023/Program.cs">
     <Files>
-      <File FileName="stehlik191023/Program.cs" Line="128" Column="1" />
+      <File FileName="stehlik191023/Program.cs" Line="45" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="stehlik191023">
-            <Node name="stehlik191023">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="stehlik191023" expanded="True">
+            <Node name="stehlik191023" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.stehlik191023 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
